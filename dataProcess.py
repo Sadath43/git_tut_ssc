@@ -1,4 +1,4 @@
 import numpy as np
 
-def myfunction():
-    pass
+def mf():
+    return "clone version1"
